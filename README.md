@@ -1,4 +1,5 @@
-# FI URL Opener Chrome Extension
+# FI Url Open Chrome Extension
+<img src="https://github.com/bojcicm/fiber-url-opener/blob/main/favicon.png?raw=true" width="100" />
 
 ## Overview
 
